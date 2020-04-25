@@ -1,2 +1,3 @@
 Databazova aplikacia
 Aplikácia, ktorá pracuje s databázou. Ukladá a vybera údaje podľa filtrovania.
+2019/2020
